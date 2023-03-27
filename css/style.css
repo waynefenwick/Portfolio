@@ -37,11 +37,11 @@ body {
 }
 
 .portfolio-text {
-     color: rgb(135, 1, 1);
+     color: rgb(1, 1, 1);
      font-size: 15px;
      padding: 2px;
      position: absolute;
-     top: 110px;
+     top: 120px;
      left: 460px;
      text-align: center;
 }
@@ -122,7 +122,7 @@ a:hover {
 
 .bp-box-text {
      position: absolute;
-     top: 770px;
+     top: 775px;
      left: 860px;
 }
 
@@ -144,7 +144,7 @@ a:hover {
 
 .vc-box-text {
      position: absolute;
-     top: 1220px;
+     top: 1275px;
      left: 860px;
 }
 
@@ -166,7 +166,7 @@ a:hover {
 
 .o2-box-text {
      position: absolute;
-     top: 1670px;
+     top: 1775px;
      left: 860px;
 }
 
