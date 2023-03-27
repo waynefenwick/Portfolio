@@ -1,0 +1,178 @@
+* {
+     box-sizing: border-box;
+}
+
+body {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin: 0px;
+}
+
+#header-position {
+     position: fixed;
+     z-index:1;
+}
+
+.style {
+     width: 100%;
+     border-bottom: 5px solid rgb(170, 1, 1);
+     box-shadow: 0px 5px 10px;
+}
+
+.name {
+     color: rgb(255, 255, 255);
+     position: absolute;
+     top: 10px;
+     left: 280px;
+     font-size: 20px;
+     padding: 2px;
+}
+
+.contact {
+     color: rgb(254, 254, 254);
+     position: absolute;
+     right: 350px;
+     top: 5px;
+     line-height: 10px;
+     padding: 2px;
+}
+
+.portfolio-text {
+     color: rgb(135, 1, 1);
+     font-size: 15px;
+     padding: 2px;
+     position: absolute;
+     top: 110px;
+     left: 460px;
+     text-align: center;
+}
+
+a:link {
+     color: solid rgb(0, 0, 0);
+     text-decoration: none;
+}
+
+a:hover {
+     color:black;
+}
+
+#background {
+     background-color: rgb(221, 221, 221);
+}
+
+.profile {
+     margin-bottom: 30px;
+}
+
+.profile img {
+     border-radius: 50%;
+     border: 5px solid rgb(135, 1, 1);
+     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.66);
+}
+
+.profile-picture {
+     width: 20%;
+     margin-top: 260px;
+     margin-left: 125px;
+     Margin-right: 50px;
+}
+
+.profile-header {
+     color: rgb(33, 29, 29);
+     padding: 2px 2px 2px 2px;
+     position: absolute;
+     top: 240px;
+     left: 590px;
+     font-size: 15px;
+}
+
+.profile-list {
+     position: absolute;
+     top: 310px;
+     left: 460px;
+     padding-left: 20px;
+     border-left: 5px solid rgb(170, 1, 1);
+     line-height: 40px;
+     font-size: 18px;
+     margin-left: 80px;
+}
+
+.content {
+     width: 95%;
+     display: inline-block;
+     margin-left: 20px;
+}
+
+#bootcamp-practice {
+     Padding: 20px;
+     background-color: rgb(224, 224, 224);
+     border: 2px solid rgb(0, 0, 0);
+     box-shadow: 5px 5px 15px;
+     margin: 70px 50px 50px 50px;
+     scroll-margin-top: 300px;
+}
+
+.bootcamp-practice {
+     border-right: 5px solid rgb(170, 1, 1);
+     width: 750px;
+     height: 200px;
+     margin-right: 20px;
+}
+
+#visitor-contact {
+     Padding: 20px;
+     background-color: rgb(255, 236, 236);
+     border: 2px solid rgb(170, 1, 1);
+     box-shadow: 5px 5px 15px;
+     margin: 200px 50px 50px 50px;
+     scroll-margin-top: 300px;
+
+}
+
+.visitor-contact {
+     border-right: 5px solid rgb(0, 0, 0);
+     width: 750px;
+     height: 200px;
+     margin-right: 20px;
+}
+
+#o2challenge {
+     Padding: 20px;
+     background-color: rgb(236, 248, 255);
+     border: 2px solid rgb(2, 81, 126);
+     box-shadow: 5px 5px 15px;
+     margin: 200px 50px 200px 50px;
+}
+
+.o2challenge {
+     border-right: 5px solid rgb(170, 1, 1);
+     width: 750px;
+     height: 200px;
+     margin-right: 20px;
+     scroll-margin-top: 280px;
+
+}
+
+#footer-position {
+     position: fixed;
+     bottom: -5px;
+}
+
+.footer-text {
+     color: rgb(0, 0, 0);
+     position: absolute;
+     bottom: 1px;
+     left: 600px;
+     text-align: center;
+     line-height: 10px;
+}
+
+.footer-style {
+     width: 100%;
+     border-top: 5px solid rgb(170, 1, 1);
+}
+
+
+
+
+
+
