@@ -1,47 +1,66 @@
-# Professional Web Portfolio
 
-## This is the first iteration of building a web-based portfolio in order to showcase current status of competency in full-stack web coding. I learned how to better structure the index.html file using <body>, <header>, <nav>, <aside>, <main>, and <section> elements.
 
------------------------------------
-# Installation
+# Portfolio
 
-    1. Create a GitHub repo
-    2. Clone the repo to your local machine
-    3. Build necessary content
-    4. Push content to the Github repo
+## License
+[![License Badge](https://img.shields.io/badge/license-mit-green?style=plastic)](https://choosealicense.com/licenses/mit/)&nbsp;
 
------------------------------------
+* Select the badge to see details.
+* To see more about license badges, visit [Shields IO](https://shields.io/category/license)
+
+&nbsp;
+
+## Description
+This Portfolio contains a brief overview of several more in depth challenges and projects I have work on during the Full-Stack Bootcamp. Ech overview contains a link to the webpage. There are also links in the navbar to my GitHub and LinkedIn accounts.
+## Table of Contents
+
+ * [Installation](#installation)
+ * [Usage](#usage)
+ * [Testing](#testing)
+ 
+
+&nbsp;
+
+## Installation
+
+No installation guidelines
+
+&nbsp;
+
+[Table of Contents](#table-of-contents)
+
+
+
 ## Usage
 
-The portfolio is easy to navigate.
-    1. It contains a menu navigation bar. Click on a menu item to view a section.
-        ![alt text](assets/Navigation Menu.png)
-    2. It contains snapshots of current websites with the snapshot containing a link to the website. Click on the snapshot to visit the website
-        ![alt text](assets/Click Image.png)
-        
-Provide instructions and examples for use. Include screenshots as needed.
+This is a Portfolio that can be used to assess my progress during the Full-Stack coding Bootcamp.
 
------------------------------------
-## License
+&nbsp;
 
-MIT License
+[Table of Contents](#table-of-contents)
 
-Copyright (c) 2023 Wayne
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Testing
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+No testing other than visiting the web applications that I have published and seeing what they can do,
+
+&nbsp;
+
+[Table of Contents](#table-of-contents)
+
+
+## Questions
+
+_If you have any questions, please feel free to contact me._
+
+GitHub Username: [waynefenwick](https://github.com/waynefenwick)
+
+Email Address: <a href="mailto:waynefenwick@gmail.com">waynefenwick@gmail.com</a>
+
+&nbsp;
+
+_Thanks for taking time to visit this repository!_
+
+[Back to Top](#)
+
